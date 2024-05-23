@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:34:03.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZhsnWq_wyJh0s-_wKNzM" version="24.2.7" type="device">
+  <diagram name="Page-1" id="cYrABiHtNv_sOr97yq9n">
+    <mxGraphModel dx="1461" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Za5ATRkJ9ul04T8mf0hR-1" target="Za5ATRkJ9ul04T8mf0hR-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-1" value="Grip PCB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Za5ATRkJ9ul04T8mf0hR-2" target="Za5ATRkJ9ul04T8mf0hR-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-2" value="Lift PCB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Za5ATRkJ9ul04T8mf0hR-3" target="Za5ATRkJ9ul04T8mf0hR-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-3" value="Place PCB &lt;br&gt;back" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Za5ATRkJ9ul04T8mf0hR-4" target="Za5ATRkJ9ul04T8mf0hR-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-4" value="Release from PCB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Za5ATRkJ9ul04T8mf0hR-10" value="Repeat 50 or 1000 times" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="233" y="303" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
